@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+div {
+    display:flex;
+    margin-top: 40px;
+}
+
+img {
+    width:100vw;
+}
